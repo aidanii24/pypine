@@ -1,4 +1,7 @@
-### pypine
+# pypine
+
+### Based on https://projects.govanify.com/govanify/pine
+
 This is a client side implementation of the PINE protocol.
 It allows for a three-way communication between the emulated game, the emulator and an external
 tool, using the external tool as a relay for all communication. It is a socket based IPC that
